@@ -1,3 +1,6 @@
+# Energy-file
+# ENERGY-CONSUMPTION
+# ENERGY-CONSUMPTION
 Build a production-ready ML batch system.
 
 Its primary focus is to engineer a scalable system using MLOps good practices.
@@ -9,11 +12,11 @@ You will learn how to build, train, serve, and monitor an ML system using a batc
 We will show you how to integrate an experiment tracker, a model registry, a feature store, Docker, Airflow, GitHub Actions and more!
 
 Table of Contents
-Data
-Code Structure
-Set Up Additional Tools
-Usage
-Installation & Usage for Development
+1. Data
+2. Code Structure
+3. Set Up Additional Tools
+4. Usage
+5. Installation & Usage for Development
 🤔 1. What You Will Learn
 At the end of this bootcamp, you will know how to:
 
